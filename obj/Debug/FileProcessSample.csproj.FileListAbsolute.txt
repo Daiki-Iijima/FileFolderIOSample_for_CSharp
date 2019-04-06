@@ -1,0 +1,7 @@
+C:\Users\daiki\source\repos\FileProcessSample\bin\Debug\FileProcessSample.exe.config
+C:\Users\daiki\source\repos\FileProcessSample\bin\Debug\FileProcessSample.exe
+C:\Users\daiki\source\repos\FileProcessSample\bin\Debug\FileProcessSample.pdb
+C:\Users\daiki\source\repos\FileProcessSample\obj\Debug\FileProcessSample.csprojAssemblyReference.cache
+C:\Users\daiki\source\repos\FileProcessSample\obj\Debug\FileProcessSample.csproj.CoreCompileInputs.cache
+C:\Users\daiki\source\repos\FileProcessSample\obj\Debug\FileProcessSample.exe
+C:\Users\daiki\source\repos\FileProcessSample\obj\Debug\FileProcessSample.pdb

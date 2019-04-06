@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFolderIOSample", "FileFolderIOSample.csproj", "{B4656422-FF4B-4E60-9818-0CC5D4BEF9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4656422-FF4B-4E60-9818-0CC5D4BEF9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4656422-FF4B-4E60-9818-0CC5D4BEF9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4656422-FF4B-4E60-9818-0CC5D4BEF9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4656422-FF4B-4E60-9818-0CC5D4BEF9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE10C62E-7EF5-4BCD-8C2A-7853778DF81E}
+	EndGlobalSection
+EndGlobal
